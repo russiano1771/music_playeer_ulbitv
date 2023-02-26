@@ -1,0 +1,36 @@
+{
+  "name": "client-30.01",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "../../client-30.01/node_modules/.bin/next dev",
+    "build": "../../client-30.01/node_modules/.bin/next build",
+    "start": "../../client-30.01/node_modules/.bin/next start",
+    "lint": "../../client-30.01/node_modules/.bin/next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.6",
+    "@next/font": "13.1.6",
+    "@types/react-dom": "18.0.10",
+    "@types/react-redux": "^7.1.25",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "sass": "^1.57.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/react": "^18.0.27",
+    "typescript": "^4.9.4"
+  }
+}
